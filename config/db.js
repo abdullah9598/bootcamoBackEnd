@@ -8,4 +8,6 @@ const connectDB = async () => {
   );
 };
 
+console.log("Hello");
+
 module.exports = connectDB;
